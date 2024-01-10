@@ -192,12 +192,13 @@ github = "demiroo"
 
 
 [extra.analytics]
-google = "G-JPHGX4YXVE"
+google = ""
 
 [extra.commenting]
 disqus = "deepthought-theme"
 
+default_language = "en"
+
 [extra.mapbox]
-[languages.en]
 enabled = true
 access_token = "pk.eyJ1IjoicmF0YW5zaHJlc2h0aGEiLCJhIjoiY2tla2s2NmM3MDd0ZzJzbXFtc3Y2YmU0NyJ9.0RhUnJPKbxHWw3xGPnnBlA"
