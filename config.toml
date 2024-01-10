@@ -170,11 +170,17 @@ galleria.enabled = true
 
 navbar_items = [
     { code = "en", nav_items = [
-        { url = "$BASE_URL/", name = "Home" },
-        { url = "$BASE_URL/posts", name = "Posts" },
-        { url = "$BASE_URL/docs", name = "Docs" },
+        { url = "$BASE_URL/", name = "Startseite" },
+        { url = "$BASE_URL/ueber-mich", name = "Über Mich" },
+        { url = "$BASE_URL/docs", name = "Technologien" },
+        { url = "$BASE_URL/tags", name = "Projekte" },
+        { url = "$BASE_URL/docs", name = "Blog/Artikel" },
+        { url = "$BASE_URL/posts", name = "Ressourcen" },
         { url = "$BASE_URL/tags", name = "Tags" },
-        { url = "$BASE_URL/categories", name = "Categories" },
+        { url = "$BASE_URL/categories", name = "Kategorien" },
+        { url = "$BASE_URL/categories", name = "FAQ" },
+      
+
     ] },
 ]
 
@@ -186,12 +192,20 @@ safari_pinned_tab = "/icons/safari-pinned-tab.svg"
 webmanifest = "/icons/site.webmanifest"
 
 [extra.author]
-name = "DeepThought"
+name = "Demir Özkan"
 avatar = "images/avatar.webp"
 
 [extra.social]
 github = "demiroo"
-
+youtube = "@oezkandemir"
+twitch = "anonymouscrypton"
+medium = "@demiroezkan205"
+discord = "mancos007"
+instagram = "anonymouscrypton"
+twitter = "oezkandmr"
+email = "dmr369@proton.me"
+linkedin = "demiroezkan"
+facebook = "oezkan.demir"
 
 [extra.analytics]
 google = ""

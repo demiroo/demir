@@ -8,11 +8,12 @@
       <p class="subtitle is-4">{{ section.description }}</p>
       {% if config.extra.author.avatar %}
       {% endif %}
-      {{ macros:: social_links( social_config=config.extra.social) }}
+     
     </div>
-    <div class="content has-text-centered">
+    <div class="content ">
       {{ section.content | safe }}
     </div>
   </div>
 </section>
 {% endblock %}
+
