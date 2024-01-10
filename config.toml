@@ -7,6 +7,7 @@ description = "A simple blog theme focused on writing powered by Bulma and Zola"
 
 # The default language; used in feeds.
 default_language = "en"
+[languages.en]
 
 # The site theme to use.
 # theme = ""
@@ -200,6 +201,5 @@ disqus = "deepthought-theme"
 
 
 [extra.mapbox]
-default_language = "en"
 enabled = true
 access_token = "pk.eyJ1IjoicmF0YW5zaHJlc2h0aGEiLCJhIjoiY2tla2s2NmM3MDd0ZzJzbXFtc3Y2YmU0NyJ9.0RhUnJPKbxHWw3xGPnnBlA"
