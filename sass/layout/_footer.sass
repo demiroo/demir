@@ -1,0 +1,24 @@
+@import "../utilities/derived-variables"
+
+$footer-background-color: $scheme-main-bis !default
+$footer-color: false !default
+$footer-padding: 3rem 1.5rem 6rem !default
+
+.footer
+  background-color: $footer-background-color
+  padding: $footer-padding
+  @if $footer-color
+    color: $footer-color
+
+  /* Für die Haupt-Scrollbar */
+::-webkit-scrollbar
+  width: 1px
+
+/* Für den Scrollbalken */
+::-webkit-scrollbar-thumb
+  background-color: #888
+  border-radius: 6px
+
+/* Optionales Styling für den Scroll-Track (Hintergrund) */
+::-webkit-scrollbar-track
+  background-color: #c8c7c7
