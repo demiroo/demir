@@ -7,9 +7,6 @@
       <h1 class="title is-3">{{ section.title }}</h1>
       <p class="subtitle is-4">{{ section.description }}</p>
       {% if config.extra.author.avatar %}
-      <figure class="image is-flex is-justify-content-center is-align-items-center">
-        <img class="is-rounded" fill src="{{ config.extra.author.avatar }}" width="240" height="100" style="max-width: 240px" alt="avatar"/>
-      </figure>
       {% endif %}
       {{ macros:: social_links( social_config=config.extra.social) }}
     </div>
