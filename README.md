@@ -1,47 +1,13 @@
 <div align="center">
 
-  <img src="static/images/avatar.jpg" alt="logo" width="200" height="auto" />
+  <img src="static/images/avatar.png" alt="logo" width="200" height="auto" />
   <h1>DeepThought</h1>
   
   <p>
     A simple blog theme focused on writing powered by Bulma and Zola.
   </p>
   
-  
-<!-- Badges -->
-<p>
-  <a href="https://github.com/RatanShreshtha/DeepThought/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/RatanShreshtha/DeepThought" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/RatanShreshtha/DeepThought" alt="last update" />
-  </a>
-  <a href="https://github.com/RatanShreshtha/DeepThought/network/members">
-    <img src="https://img.shields.io/github/forks/RatanShreshtha/DeepThought" alt="forks" />
-  </a>
-  <a href="https://github.com/RatanShreshtha/DeepThought/stargazers">
-    <img src="https://img.shields.io/github/stars/RatanShreshtha/DeepThought" alt="stars" />
-  </a>
-  <a href="https://github.com/RatanShreshtha/DeepThought/issues/">
-    <img src="https://img.shields.io/github/issues/RatanShreshtha/DeepThought" alt="open issues" />
-  </a>
-  <a href="https://github.com/RatanShreshtha/DeepThought/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/RatanShreshtha/DeepThought.svg" alt="license" />
-  </a>
-</p>
-   
-<h4>
-    <a href="https://github.com/RatanShreshtha/DeepThought/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/RatanShreshtha/DeepThought">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/RatanShreshtha/DeepThought/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/RatanShreshtha/DeepThought/issues/">Request Feature</a>
-  </h4>
-</div>
 
-<br />  
 
 <!-- About the Project -->
 ## :star2: About the Project
