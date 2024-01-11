@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="static/images/docan.png" alt="logo" width="200" height="auto" />
-  <h1>DeepThought</h1>
+  <h1>Demir Özkan Official Website</h1>
   
   <p>
     A simple blog theme focused on writing powered by Bulma and Zola.
