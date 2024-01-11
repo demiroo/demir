@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="static/images/avatar.png" alt="logo" width="200" height="auto" />
+  <img src="static/images/avatar.jpg" alt="logo" width="200" height="auto" />
   <h1>DeepThought</h1>
   
   <p>
