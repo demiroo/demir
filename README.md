@@ -76,8 +76,12 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="screenshot.png" alt="screenshot" />
+  <img src="screenshotdark.jpg" alt="screenshot" />
 </div>
+<div align="center"> 
+  <img src="screenshotlight.jpg" alt="screenshot" />
+</div>
+
 
 
 <!-- TechStack -->
