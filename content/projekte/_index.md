@@ -1,6 +1,6 @@
 +++
 title = "Projekte"
-description = "meine projekte"
+description = "meine projektetechnologien"
 sort_by = "date"
 paginate_by = 5
 +++
