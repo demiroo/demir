@@ -41,32 +41,7 @@
   </h4>
 </div>
 
-<br />
-
-<!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
-
-- [:notebook_with_decorative_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
-  - [:star2: About the Project](#star2-about-the-project)
-    - [:camera: Screenshots](#camera-screenshots)
-    - [:space_invader: Tech Stack](#space_invader-tech-stack)
-    - [:dart: Features](#dart-features)
-  - [:toolbox: Getting Started](#toolbox-getting-started)
-    - [:bangbang: Prerequisites](#bangbang-prerequisites)
-    - [:gear: Installation](#gear-installation)
-    - [:running: Run Locally](#running-run-locally)
-    - [:triangular_flag_on_post: Deployment](#triangular_flag_on_post-deployment)
-  - [:eyes: Usage](#eyes-usage)
-      - [Multilingual Navbar](#multilingual-navbar)
-    - [KaTeX math formula support](#katex-math-formula-support)
-      - [Automatic rendering without short codes](#automatic-rendering-without-short-codes)
-    - [Elasticlunr search in other language](#elasticlunr-search-in-other-language)
-  - [:wave: Contributing](#wave-contributing)
-  - [:warning: License](#warning-license)
-  - [:handshake: Contact](#handshake-contact)
-  - [:gem: Acknowledgements](#gem-acknowledgements)
-
-  
+<br />  
 
 <!-- About the Project -->
 ## :star2: About the Project
