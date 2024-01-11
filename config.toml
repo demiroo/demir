@@ -172,13 +172,13 @@ navbar_items = [
     { code = "en", nav_items = [
         { url = "$BASE_URL/", name = "Startseite" },
         { url = "$BASE_URL/ueber-mich", name = "Über Mich" },
-        { url = "$BASE_URL/docs", name = "Technologien" },
-        { url = "$BASE_URL/tags", name = "Projekte" },
+        { url = "$BASE_URL/technologien", name = "Technologien" },
+        { url = "$BASE_URL/projekte", name = "Projekte" },
         { url = "$BASE_URL/docs", name = "Blog/Artikel" },
-        { url = "$BASE_URL/posts", name = "Ressourcen" },
+        { url = "$BASE_URL/ressourcen", name = "Ressourcen" },
         { url = "$BASE_URL/tags", name = "Tags" },
         { url = "$BASE_URL/categories", name = "Kategorien" },
-        { url = "$BASE_URL/categories", name = "FAQ" },
+        { url = "$BASE_URL/faq", name = "FAQ" },
       
 
     ] },
