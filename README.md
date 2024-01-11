@@ -78,6 +78,7 @@
 <div align="center"> 
   <img src="screenshotdark.jpg" alt="screenshot" />
 </div>
+<br/>
 <div align="center"> 
   <img src="screenshootlight.jpg" alt="screenshot" />
 </div>
