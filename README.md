@@ -79,7 +79,7 @@
   <img src="screenshotdark.jpg" alt="screenshot" />
 </div>
 <div align="center"> 
-  <img src="screenshotlight.jpg" alt="screenshot" />
+  <img src="screenshootlight.jpg" alt="screenshot" />
 </div>
 
 
